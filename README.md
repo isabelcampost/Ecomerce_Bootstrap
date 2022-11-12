@@ -13,15 +13,15 @@ aqui veremos paso a paso como hacer un ecomerce
 ***
 ## primer paso
 Primero lo que tenemos que hacer es importar los modulos, nombrar los archivos asignarles algun nombre legible
-![Primer paso](img/)
+![Primer paso](assets/img/Imagen2.png)
 
 ## Segundo paso
 Primero lo que tenemos que hacer es importar los modulos, nombrar los archivos asignarles algun nombre legible
-![Primer paso](img/portada.jpg)
+![Primer paso](assets/img/Imagen3.png)
 
 ## Quinto paso
 #### Graficamos el reporte en 
-![quinto paso](img/portada.jpg)
+![quinto paso](assets/img/Imagen4.png)
 
 ## Sobre nosotros ✏
 En [datahack.ai](https://fre/) bridamos formacion de temas de data. Nuestro objetivo es contar con un equipo altamente calificado
@@ -154,7 +154,7 @@ El primero de ellos es simple: busca una cara, toma una foto de ella y la guarda
 ~~~
 python capture.py nombrePersona
 ~~~
-<img src="https://github.com/futurelabmx/FaceRecognition2/blob/master/entrenamiento.png?raw=true" width="600">
+
 
 - ⚠Ten en cuenta que el nombre de la persona es el mismo que pusiste en el nombre de su carpeta.
 
@@ -168,7 +168,7 @@ python reconocimiento.py
 ~~~
 - Puedes cambiar el metodo de reconocimiento por caulquiera de los 3 mencionados al inicio, prueba los 3 y checa cual te da mejores resultados.
 
-<img src="https://github.com/futurelabmx/FaceRecognition2/blob/master/reconocido.png" width="600">
+
 
 ============================================
 
