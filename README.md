@@ -16,31 +16,23 @@ Primero lo que tenemos que hacer es importar los modulos, nombrar los archivos a
 ![Primer paso](Imagen2.png)
 
 ## Segundo paso
-Primero lo que tenemos que hacer es importar los modulos, nombrar los archivos asignarles algun nombre legible
+Segundo lo que tenemos que hacer es importar las imagenes, nombrar los archivos asignarles algun nombre legible
 ![Primer paso](Imagen3.png)
 
-## Quinto paso
-#### Graficamos el reporte en 
+## Tercer paso
+#### Graficamos muestro ecomerce 
 ![quinto paso](Imagen4.png)
 
 ## Sobre nosotros ✏
-En [datahack.ai](https://fre/) bridamos formacion de temas de data. Nuestro objetivo es contar con un equipo altamente calificado
+En [datahack.ai](https://fre/) Mi objetivo es contar con un equipo altamente calificado en todo lo correspondiente en TI.
 
 ## License
->Copyright @ 2020 DataHack - <hola@hotmauil.com>
+>Copyright @ 2022 Isabel - <hola@hotmauil.com>
 
-
-# Plantilla de README.md
-
-Este gist te ayudará a aprender los fundamentos básicos del lenguaje rápido **Markdown** 
-
-```
-(también conocido como MD o .md)
-```
 
 ## Instrucciones
 
-El objetivo final es que tengas un archivo llamado **README.md** en tu GIST Público.
+El objetivo final es que tengas un archivo llamado **README.md** en tu GIT Público.
 
 ### Iniciar Sesión 
 
@@ -65,14 +57,6 @@ Escribe un pequeño reporte de más de 100 palabras que responda lo siguiente:
 3. Explica las diferencias entre un GIST anónimo, público y secreto
 4. Describe los pasos necesarios para usar WGET para descargar un archivo RAW en 
 
-Para completar esta actividad deberás incluir los siguientes elementos:
-
-* Breve descripción del archivo.
-* 3 Niveles de cabeceras diferentes (H1, H2, H3).
-* Una lista con puntos o con números.
-* Una tabla con cualquier información.
-
----
 
 ## Ejemplos
 
@@ -114,10 +98,6 @@ Para ver más ejemplos puedes visitar este [LINK - ejemplos.md](https://gist.git
 ---
 
 ## Autores
-
-* **EPPR** - *Colaborador Inicial* - [GitHub](https://github.com/EPPR/)
-* Sharles256 - *Colaborador Complementario* - [GitHub](https://github.com/Sharles256/)
-
 
 # Reconocimiento facial con OPENCV
 Mediante el uso de un script aprenderemos las caras que nos interesen y con otro script arrancaremos la función de reconocimiento.
@@ -184,8 +164,6 @@ Sesión de reconocimiento facial para el Google Developer Student Club Guanajuat
 
 Revisa los slides [aquí](https://docs.google.com/presentation/d/e/2PACX-1vR5wgAoNGyy0fhkLbYGiY2CTzh80j5ACa3hrTLU0U7feA4ZUoFLvumO4yqqLO5vwTygy8wFbcqdAoMX/pub?start=false&loop=false&delayms=3000).
 
-Y un TikTok demostrando el funcionamiento aquí: [https://vm.tiktok.com/ZMdoMfmKM/](https://vm.tiktok.com/ZMdoMfmKM/)
-
 
 ## Setup
 
@@ -203,4 +181,3 @@ Ejecuta el archivo `facedet.py`:
 ```bash
 python facedet.py
 ```
-
