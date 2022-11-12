@@ -1,5 +1,5 @@
 # Ecomerce_Isyel
-![Automatizando Reportes con Python](img/portada.jpg)
+![Automatizando Reportes con Python](assets/img/Imagen1.png)
 
 >Como generar un ecomerce con bootstrap 
 
