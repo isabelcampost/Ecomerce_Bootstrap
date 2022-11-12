@@ -1,0 +1,94 @@
+.card-body .fw-light{
+    margin-top: 10px;
+    text-align: justify;
+    color:blue
+}
+.card-img-top{
+    width: 100%;
+    height: 300px;
+}
+
+.col-auto button{
+    height: 65px;
+    background-color: palevioletred;
+    border: none;
+    width: 200px;
+}
+
+
+.testimonial img{
+    width: 50%;
+    height: 180px;
+    border-radius: 100%;
+    
+}
+
+.features-icons img{
+    width: 100px;
+    margin: auto;
+}
+
+.lead{
+    margin-top: 10px;
+    text-align: justify;
+}
+.navbar-brand img{
+width: 100%;
+height: 50px;
+border-radius: 100%;
+
+}
+
+.container #spanner{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.container .meier{
+    font-size: 30px;
+}
+
+.nav-item a{
+    border-radius: 10px;
+    color: black;
+
+}
+.nav-item a:hover{
+    background-color: palevioletred;
+    color: #fff;
+}
+
+.features-icons .container .features-icons-item {
+    height: 650px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.btn-primary{
+    background-color: palevioletred;
+    border: none;
+}
+.container-fluid{
+    width: 1000px;
+    height:120px;
+    margin: 0 auto;
+}
+.d-flex{
+    width: 100px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.d-flex .form-control{
+    height: 50px;
+    width: 1000px;
+}
+
+.navbar11 h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
