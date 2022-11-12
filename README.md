@@ -13,15 +13,15 @@ aqui veremos paso a paso como hacer un ecomerce
 ***
 ## primer paso
 Primero lo que tenemos que hacer es importar los modulos, nombrar los archivos asignarles algun nombre legible
-![Primer paso](assets/img/Imagen2.png)
+![Primer paso](Imagen2.png)
 
 ## Segundo paso
 Primero lo que tenemos que hacer es importar los modulos, nombrar los archivos asignarles algun nombre legible
-![Primer paso](assets/img/Imagen3.png)
+![Primer paso](Imagen3.png)
 
 ## Quinto paso
 #### Graficamos el reporte en 
-![quinto paso](assets/img/Imagen4.png)
+![quinto paso](Imagen4.png)
 
 ## Sobre nosotros ✏
 En [datahack.ai](https://fre/) bridamos formacion de temas de data. Nuestro objetivo es contar con un equipo altamente calificado
